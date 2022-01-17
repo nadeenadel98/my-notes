@@ -19,4 +19,4 @@ my name nadeen adel nimer al_err born in 15/1/1998 studied computer information 
 9. Predictions
 10. Testing 
 
-to read more information [click here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+**to read more information** [click here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
